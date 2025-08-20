@@ -1,0 +1,1 @@
+- Pod là thành phần nhỏ nhất trong k8s
